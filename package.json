@@ -1,0 +1,19 @@
+{
+  "name": "tutorial-bot",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "author": "Ferotiq",
+  "license": "ISC",
+  "description": "To install this, copy and paste the source code into a folder, and then run npm i to install all the packages.",
+  "dependencies": {
+    "discord-buttons": "^4.0.0",
+    "discord.js": "^13.2.0-dev.1630065890.b89280a",
+    "discord.js-pagination": "^1.0.3",
+    "discordjs-button-pagination": "^2.0.0",
+    "moment": "^2.29.1",
+    "reconlx": "^2.3.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
